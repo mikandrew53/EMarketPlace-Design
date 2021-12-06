@@ -1,1 +1,1 @@
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Complete Design Doc (Google Doc)](https://docs.google.com/document/d/1DNeXZM1YVLTjZyppH4MVNvZ1Z3Z_4dSo2lZEQdWKZR4/edit?usp=sharing)
