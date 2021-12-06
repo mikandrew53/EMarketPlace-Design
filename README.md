@@ -1,1 +1,3 @@
+The link to the complete design document is below. This is a link to a google doc, if you wish to view our work there. You should have access if you use your ontario tech email address. If for whatever reason the document is giving you any problems regarding permission, I have pushed all of our iterations to this repository. You can find each individual iteration as a pdf file as well as our system requirments and the business case. If you wish to view the entire document in one pdf I have uploaded a pdf file containing our entire design document.  
+
 [Complete Design Doc (Google Doc)](https://docs.google.com/document/d/1DNeXZM1YVLTjZyppH4MVNvZ1Z3Z_4dSo2lZEQdWKZR4/edit?usp=sharing)
